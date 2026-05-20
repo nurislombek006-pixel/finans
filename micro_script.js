@@ -223,7 +223,7 @@ const QUIZ_HOME_PAGE_BY_SECTION = {
 const BANNED_USERS_JSON_PATH = 'banned_users.json';
 const PREMIUM_USERS_JSON_PATH = 'premium_users.json';
 const DEFAULT_PREMIUM_ADMIN_NAME = 'Nurislombek';
-const DEFAULT_PREMIUM_ADMIN_USERNAME = '@nurislombekm';
+const DEFAULT_PREMIUM_ADMIN_USERNAME = '@m_azizxojayevna';
 const SUBSCRIPTION_PAYMENT_CONFIG = window.SUBSCRIPTION_PAYMENT_CONFIG || {
   // ЗДЕСЬ МЕНЯТЬ НОМЕР КАРТЫ ДЛЯ ОПЛАТЫ
   cardNumber: '5614 6805 7717 0398',
